@@ -1,0 +1,149 @@
+Konu,Topic Head,Count
+Siber Güvenlik Kavramları,Cybersecurity Management and Concepts,44
+Şifreleme Algoritmaları,Cryptology and Password Security,20
+Bilgi Toplama,Attack Techniques and Malware,14
+Sosyal Mühendislik,Attack Techniques and Malware,10
+Diğer Algoritmalar ve Teknikler,Cryptology and Password Security,10
+Kriptolojiye Giriş,Cryptology and Password Security,9
+İnternet Güvenliği,Web and Internet Security,9
+Web Güvenliği,Web and Internet Security,8
+Özetleme Algoritmaları,Cryptology and Password Security,8
+Sosyal Medya,Cybersecurity Management and Concepts,8
+DoS ve DDoS,Attack Techniques and Malware,7
+Windows Komut Satırı,Operating Systems and Mobile Security,7
+Siber Savaş Örnekleri,Cybersecurity Management and Concepts,7
+Zararlı Yazılım Analizi,Attack Techniques and Malware,6
+Ağ Saldırısı - Erişim,Network and Wireless Security,6
+Parola Güvenliği,Cryptology and Password Security,6
+Veri Güvenliği,Cybersecurity Management and Concepts,6
+Siber Saldırılar,Attack Techniques and Malware,5
+Biyometrik Güvenlik,Cybersecurity Management and Concepts,5
+PowerShell,Operating Systems and Mobile Security,5
+İnternet Tarihçesi,Web and Internet Security,5
+Ağ Saldırısı - Keşif,Network and Wireless Security,5
+Siber Ölüm Zinciri,Attack Techniques and Malware,5
+Windows Yönetimsel Araçlar,Operating Systems and Mobile Security,5
+Linux İşletim Sistemi,Operating Systems and Mobile Security,4
+Uygulama Atakları,Attack Techniques and Malware,4
+Temel Güvenlik,Cybersecurity Management and Concepts,4
+Windows Güvenliği,Operating Systems and Mobile Security,4
+Linux Komutları,Operating Systems and Mobile Security,4
+Güvenlik Zafiyetleri,Cybersecurity Management and Concepts,4
+Parola Kırma,Cryptology and Password Security,4
+Tarayıcı Eklentileri,Operating Systems and Mobile Security,4
+Windows İzleme Araçları,Operating Systems and Mobile Security,3
+Gelişmiş Kalıcı Tehditler,Attack Techniques and Malware,3
+Güvenlik Yazılımları,Cybersecurity Management and Concepts,3
+Windows Kayıt Defteri,Operating Systems and Mobile Security,3
+SOC,Cybersecurity Management and Concepts,3
+Zararlı Yazılımlar,Attack Techniques and Malware,3
+Linux Konfigürasyon,Operating Systems and Mobile Security,3
+Kablosuz Güvenlik,Network and Wireless Security,2
+Linux Güvenliği,Operating Systems and Mobile Security,2
+Siber Tehditler,Cybersecurity Management and Concepts,2
+İnternet Tehditleri,Web and Internet Security,2
+Oturum Yönetimi,Web and Internet Security,2
+Tehditler,Cybersecurity Management and Concepts,2
+Parola Yönetimi,Cryptology and Password Security,2
+Olay Müdahale,Cybersecurity Management and Concepts,2
+TCP/IP Protokolleri,Network and Wireless Security,1
+TCP Zayıflıkları,Network and Wireless Security,1
+DNS Protokolü,Network and Wireless Security,1
+ARP Protokolü,Network and Wireless Security,1
+ICMP Protokolü,Network and Wireless Security,1
+Kablosuz Standartlar,Network and Wireless Security,1
+VPN Türleri,Cryptology and Password Security,1
+VPN Teknolojisi,Cryptology and Password Security,1
+Güvenlik Duvarı,Network and Wireless Security,1
+IPS/IDS Sistemleri,Network and Wireless Security,1
+Mobil Platform Güvenliği,Operating Systems and Mobile Security,1
+Mobil Cihaz Güvenliği,Operating Systems and Mobile Security,1
+RFID Güvenliği,Network and Wireless Security,1
+Kablosuz Ağlar,Network and Wireless Security,1
+NFC Teknolojisi,Network and Wireless Security,1
+Bluetooth Güvenliği,Network and Wireless Security,1
+Kablosuz Saldırılar,Network and Wireless Security,1
+DHCP Protokolü,Network and Wireless Security,1
+SNMP Protokolü,Network and Wireless Security,1
+ICMP Smurf Attack,Network and Wireless Security,1
+TCP Reset Attack,Network and Wireless Security,1
+Bulut Sistem Güvenliği,Operating Systems and Mobile Security,1
+Cryptojacking,Cryptology and Password Security,1
+Android Uygulama,Operating Systems and Mobile Security,1
+IOS Güvenliği,Operating Systems and Mobile Security,1
+Davranışsal IPS,Network and Wireless Security,1
+WiFi 6 Standardı,Network and Wireless Security,1
+WEP Şifreleme,Cryptology and Password Security,1
+TCP Sıra Numarası,Network and Wireless Security,1
+MAC Filtreleme,Network and Wireless Security,1
+Kaba Kuvvet Saldırısı,Cryptology and Password Security,1
+Mobil Veri Sızıntısı,Operating Systems and Mobile Security,1
+Güvenli Olmayan WiFi,Network and Wireless Security,1
+Mobil Güncelleme,Operating Systems and Mobile Security,1
+Mobil Uygulama Kaynağı,Operating Systems and Mobile Security,1
+Mobil Hırsızlık,Operating Systems and Mobile Security,1
+Telnet Protokolü,Network and Wireless Security,1
+E-posta Riski,Web and Internet Security,1
+Sahte Site Kontrolü,Web and Internet Security,1
+SSL Şifreleme,Cryptology and Password Security,1
+CAPTCHA,Web and Internet Security,1
+Brute Force Program,Cryptology and Password Security,1
+HTTP Başlık,Web and Internet Security,1
+SessionID Karmaşıklığı,Web and Internet Security,1
+XSS ve Oturum,Web and Internet Security,1
+Dijital Oyun Riski,Web and Internet Security,1
+Siber Farkındalık,Cybersecurity Management and Concepts,1
+Dijital Dönüşüm,Cybersecurity Management and Concepts,1
+Oyun ve Deneyim,Web and Internet Security,1
+Geleneksel Oyunlar,Cybersecurity Management and Concepts,1
+Oyun ve Eğitim,Cybersecurity Management and Concepts,1
+Oyunun Tanımı,Cybersecurity Management and Concepts,1
+Oyun Türleri,Cybersecurity Management and Concepts,1
+Dijital Oyun Tarihi,Cybersecurity Management and Concepts,1
+2FA Tereddütü,Cryptology and Password Security,1
+2FA Kullanımı,Cryptology and Password Security,1
+2FA Nedir,Cryptology and Password Security,1
+Arama Motoru Riski,Web and Internet Security,1
+Link Güvenliği,Web and Internet Security,1
+Oltalama Korunma,Web and Internet Security,1
+Bedava Hizmet,Web and Internet Security,1
+Sosyal Medya Sözleşmesi,Web and Internet Security,1
+Üyelik Sözleşmesi,Web and Internet Security,1
+Web Güvenilirliği,Web and Internet Security,1
+Parola Süresi,Cryptology and Password Security,1
+Güçlü Parola,Cryptology and Password Security,1
+Zayıf Parola,Cryptology and Password Security,1
+HTTPS Kontrolü,Web and Internet Security,1
+HTTPS Güvenlik,Web and Internet Security,1
+WPA Şifreleme,Cryptology and Password Security,1
+HTTPS,Web and Internet Security,1
+Cambridge Analytica,Cybersecurity Management and Concepts,1
+Oltalama,Cryptology and Password Security,1
+Kaba Kuvvet Önlemi,Cryptology and Password Security,1
+Kaba Kuvvet,Cryptology and Password Security,1
+iFrame Zafiyeti,Web and Internet Security,1
+VPN Tünelleme,Network and Wireless Security,1
+IPS İmza Türleri,Network and Wireless Security,1
+Durumlu Paket İnceleme,Network and Wireless Security,1
+Güvenlik Duvarı Türleri,Network and Wireless Security,1
+Doğrudan Erişim,Network and Wireless Security,1
+Kurtarma Listesi,Cybersecurity Management and Concepts,1
+Parola Karakter,Cryptology and Password Security,1
+Şikayet Kontrolü,Cybersecurity Management and Concepts,1
+Şifreleme Uygulamaları,Cryptology and Password Security,1
+İşletim Sistemi Temelleri,Operating Systems and Mobile Security,1
+Saldırı Vektörleri,Attack Techniques and Malware,1
+İşletim Sistemi Güvenliği,Operating Systems and Mobile Security,1
+Pazarlama İzni,Web and Internet Security,1
+Web Sitesi Faaliyeti,Web and Internet Security,1
+Yazılım Güvenliği,Cybersecurity Management and Concepts,1
+Linux Dosya Sistemi,Operating Systems and Mobile Security,1
+Güvenlik Politikaları,Cybersecurity Management and Concepts,1
+İnternet Tarayıcıları,Operating Systems and Mobile Security,1
+Sistem Güvenliği,Operating Systems and Mobile Security,1
+Çerez Yönetimi,Web and Internet Security,1
+Uygulama Güvenliği,Web and Internet Security,1
+E-posta Güvenliği,Web and Internet Security,1
+İnternet İstatistikleri,Web and Internet Security,1
+Sosyal Medya İstatistikleri,Web and Internet Security,1
+Tarayıcı Güvenliği,Operating Systems and Mobile Security,1
